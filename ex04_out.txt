@@ -1,0 +1,4 @@
+1 — Odin
+2 — Dva
+3 — Tri
+4 — Chetyre
